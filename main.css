@@ -1,0 +1,120 @@
+@media screen and (max-width: 768px) {
+  .nav-menu {
+    display: none;
+  }
+  .header-img {
+    width: 200%;
+    display: none;
+  }
+  .header-text1 {
+    text-align: center;
+    margin: 0 30%;
+  }
+  .header-text2 {
+    text-align: center;
+    margin: 0 35%;
+    margin-top: 1rem;
+  }
+  .header-btn1 {
+    text-align: center;
+    position: relative;
+    left: 60%;
+    top: 1rem;
+  }
+  .navbar-m {
+    opacity: 1;
+    position: relative;
+    width: 35px;
+    float: right;
+    left: 40%;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  .sec2-img {
+    width: 100%;
+    margin-top: 6rem;
+  }
+  .sec2-img1 {
+    position: relative;
+    right: 0;
+    top: 20rem;
+  }
+  .texts-1 {
+    position: relative;
+    left: 0;
+  }
+  .section2-text1 {
+    margin: 0 auto;
+  }
+  .section2-text2 {
+    margin: 0 auto;
+  }
+
+  .texts2 {
+    position: relative;
+    top: -25rem;
+  }
+  .foot {
+    height: 2400px;
+  }
+  .boxs {
+    margin-top: 2rem;
+  }
+  .contant {
+    position: relative;
+    top: 26rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .header-text1 {
+    text-align: center;
+    margin: 0;
+    width: 100%;
+  }
+  .header-text2 {
+    text-align: center;
+    margin: 0;
+    margin-top: 1rem;
+    width: 100%;
+  }
+  .header-btn1 {
+    text-align: center;
+    position: relative;
+    left: 10%;
+    top: 1rem;
+  }
+  .section2-text1 {
+    width: 100%;
+    font-size: 30px;
+  }
+  .foot {
+    height: 2555px;
+  }
+  .contant {
+    position: relative;
+    top: 30rem;
+  }
+  .sec2-img {
+    position: relative;
+    top: 15rem;
+  }
+  .texts {
+    position: relative;
+    top: 19rem;
+  }
+  .text-2 {
+    margin-top: -15rem;
+  }
+  .texts2 {
+    position: relative;
+    top: -1rem;
+  }
+  .sec2-img1{
+    position: relative;
+    top: 35rem;
+  }
+  .header{
+    height: 910px;
+  }
+}
